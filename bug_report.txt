@@ -13,4 +13,4 @@
        actual result: it is impossible to perform any actions with the product, it is possible to return only to the previous page
             severity: high
             priority: major
-         assigned to: /
+         assigned to: Vadim Ksendzov
