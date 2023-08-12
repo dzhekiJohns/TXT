@@ -1,0 +1,7 @@
+Preferences:
+name: Eugene,
+age: 37,
+movie: Miracle in Cell No. 7,
+meals: cakes,
+time of the year: summer,
+country: Mauritius
